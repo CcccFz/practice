@@ -1,4 +1,4 @@
-package json_high_perf
+package json
 
 import (
 	"encoding/json"
